@@ -50,14 +50,14 @@ Twitter: https://twitter.com/projectname
 Telegram: https://t.me/projectname
 Discord: https://discord.gg/projectname
 
-Future Enhancements
+## Future Enhancements
 
 Implement more advanced text parsing techniques
 Add support for analyzing multiple projects simultaneously
 Create a database to store and compare project information over time
 Develop a user interface for easier interaction and data visualization
 
-License
+## License
 This project is open source and available under the MIT License.
 
 Created by Josh Plotkin
